@@ -1,4 +1,4 @@
-# DigitalCommunication
+## DigitalCommunication
  - 이 프로젝트는 digital communication model을 구현하였다.
  
  - AWGN, AWGN+multi path 환경에서의 QPSK, 16-QAM 변조방식을 구현
